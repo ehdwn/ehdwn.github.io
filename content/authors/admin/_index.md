@@ -53,7 +53,7 @@ social:
   - icon: instagram
     icon_pack: fab
     link: https://instagram.com/dongju0134
-    icon: github
+  - icon: github
     icon_pack: fab
     link: https://github.com/ehdwn
 # Uncomment below for Github link
