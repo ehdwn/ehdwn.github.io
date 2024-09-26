@@ -34,6 +34,8 @@ content:
       tag: CV
     - name: NLP
       tag: NLP
+    - name: DB
+      tag: DB
 
 design:
   columns: '1'
