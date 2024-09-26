@@ -52,7 +52,10 @@ social:
     link: https://twitter.com/wowchemy
   - icon: instagram
     icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://instagram.com/dongju0134
+    icon: github
+    icon_pack: fab
+    link: https://github.com/ehdwn
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
