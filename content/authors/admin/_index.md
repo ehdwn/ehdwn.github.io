@@ -6,7 +6,7 @@ title: 김동주
 superuser: true
 
 # Role/position
-role: ''
+role: '대학생'
 
 # Status emoji
 status:
@@ -20,7 +20,9 @@ status:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-#interests:
+interests:
+  - 컴퓨터 보안
+
 #- Artificial Intelligence
 #- Computational Linguistics
 #- Information Retrieval
