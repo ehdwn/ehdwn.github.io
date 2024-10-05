@@ -17,9 +17,10 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo blog theme powered by Wowchemy website builder.'
+    org_name: '김동주'
+    description: '전북대 컴공 김동주의 웹포트폴리오.'
     twitter: 'GetResearchDev'
+    keywords:['전북대 김동주','김동주','컴공','컴퓨터공학','csai']
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -35,8 +36,8 @@ header:
   navbar:
     enable: true
     align: r
-    show_logo: false
-    show_language: false
+    show_logo: true
+    show_language: true
     show_day_night: true
     show_search: true
     highlight_active_link: false
@@ -55,6 +56,7 @@ footer:
 locale:
   date_format: 'Jan 2, 2006'
   time_format: '3:04 PM'
+  address_format: en-us
 
 # Site features
 
@@ -69,7 +71,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/ehdwn/ehdwn.github.io'
     content_dir: content
     branch: main
   avatar:
