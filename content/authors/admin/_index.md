@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: 김동주
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: ''
+role: '대학생'
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Organizations/Affiliations
 #organizations:
@@ -20,7 +20,9 @@ status:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-#interests:
+interests:
+  - 컴퓨터 보안
+
 #- Artificial Intelligence
 #- Computational Linguistics
 #- Information Retrieval
@@ -50,7 +52,10 @@ social:
     link: https://twitter.com/wowchemy
   - icon: instagram
     icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://instagram.com/dongju0134
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/ehdwn
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
@@ -66,7 +71,8 @@ social:
 #email: ""
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+안녕하세요 김동주입니다. 지금은 코드를 확인하면서 구조를 파악중입니다.
+나중에 다시 연락주세요.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
