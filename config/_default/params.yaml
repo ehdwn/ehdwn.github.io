@@ -20,7 +20,7 @@ marketing:
     org_name: '김동주'
     description: '전북대 컴공 김동주의 웹포트폴리오.'
     twitter: 'GetResearchDev'
-    keywords:['전북대 김동주','김동주','컴공','컴퓨터공학','csai']
+    keywords: ['전북대 김동주','김동주','컴공','컴퓨터공학','csai']
   analytics:
     google_analytics: ''
     baidu_tongji: ''
