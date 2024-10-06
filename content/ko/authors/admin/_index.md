@@ -27,14 +27,14 @@ interests:
 #- Computational Linguistics
 #- Information Retrieval
 
-#education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
+education:
+  courses:
+  - course: 컴퓨터공학부
+    institution: 전북대학교
+    year: 2024
+  - course: 고등학교 졸업
+    institution: 원광고등학교
+    year: 2019
 #  - course: BSc in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
 #    year: 2008
